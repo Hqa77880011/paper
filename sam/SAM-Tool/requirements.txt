@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+onnxruntime
+opencv-python
+scikit-image
+matplotlib
+Pillow
+pyyaml
+tqdm
+simplification
+distinctipy
